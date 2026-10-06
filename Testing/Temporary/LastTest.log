@@ -1,0 +1,35 @@
+Start testing: Oct 06 20:50 MSK
+----------------------------------------------------------
+1/2 Testing: unit
+1/2 Test: unit
+Command: "/home/dbrf/arraylib/build/test_unit"
+Directory: /home/dbrf/arraylib/build
+"unit" start time: Oct 06 20:50 MSK
+Output:
+----------------------------------------------------------
+[unit] All tests passed
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"unit" end time: Oct 06 20:50 MSK
+"unit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: integration
+2/2 Test: integration
+Command: "/home/dbrf/arraylib/build/test_integration"
+Directory: /home/dbrf/arraylib/build
+"integration" start time: Oct 06 20:50 MSK
+Output:
+----------------------------------------------------------
+[integration] All tests passed
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"integration" end time: Oct 06 20:50 MSK
+"integration" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 06 20:50 MSK
